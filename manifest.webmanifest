@@ -1,0 +1,17 @@
+{
+  "name": "phyX – Physik zum Anfassen",
+  "short_name": "phyX",
+  "description": "Physik lernen mit 3D-Laboren, Levels und Vorlesestimme.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050a16",
+  "theme_color": "#050a16",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
